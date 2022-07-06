@@ -6,7 +6,7 @@ SET month=%date:~0,2%
 SET day=%date:~3,2%
 SET tt=%time:~0,8%
 SET Today=%year%%month%%day%_%time:~0,2%%time:~3,2%%time:~6,2%
-ECHO %Today%
+rem ECHO %Today%
 rem ECHO %date%
 rem ECHO %time%
 @ECHO ON
