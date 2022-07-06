@@ -27,5 +27,8 @@ git checkout master
 git merge dev
 pause
 
-git push
+git push origin master
+pause
+
+git checkout dev
 pause
