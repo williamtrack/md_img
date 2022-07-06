@@ -10,6 +10,7 @@ rem ECHO %Today%
 rem ECHO %date%
 rem ECHO %time%
 @ECHO ON
+
 git add .
 git commit -am "%Today%"
 git remote rm origin
