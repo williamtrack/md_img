@@ -16,7 +16,6 @@ pause
 
 git checkout master
 git merge dev
-pause
 
 git push origin master
 
